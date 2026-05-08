@@ -1,8 +1,6 @@
-[[
-Vexo Libary, read to know how to use!
-Made by Vexo, solo Developer!
-Spent long time making it! Hope yall like it.
-]]
+-- Vexo Libary, read to know how to use!
+-- Made by Vexo, solo Developer!
+-- Spent long time making it! Hope yall like it.
 
 -- VEXO LIBRARY V6 (FIXED DROPDOWN TEXT)
 local Library = {}
